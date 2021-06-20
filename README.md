@@ -11,9 +11,13 @@
 #mongodb #react #express #nodejs #mern stack #pull stack
 
 인프런 강의를 보면서 공부함.
+
 boilerplate 사용함.
+
 antd design으로 디자인 함.
+
 스스로 문제를 해결하기 위해 구글링과 참고문서를 찾아봄.
+
 
 💡 주요 기능 :
 
