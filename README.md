@@ -7,6 +7,7 @@
 업체의 케이크마다 사용자가 등록한 리뷰를 통해 케이크 정보를 알 수 있다.
 
 💡 사용 기술 :
+
 #mongodb #react #express #nodejs #mern stack #pull stack
 
 인프런 강의를 보면서 공부함.
