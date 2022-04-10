@@ -11,7 +11,7 @@
 
 💡 **사용 기술 :**
 
-#mongodb #react #express #nodejs #mern stack #pull stack
+#mongodb #react #express #nodejs #mern stack #full stack
 
 인프런 강의를 보면서 공부함.
 
